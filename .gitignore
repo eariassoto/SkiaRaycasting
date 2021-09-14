@@ -1,0 +1,4 @@
+.vscode
+*.zip
+node_modules
+dist/
