@@ -29,3 +29,9 @@ The project will build map files so that it can be debug. For example, I use VS 
     ]
 }
 ```
+## Demo
+The demo is online and playable in-browser over my [itch.io](https://eariassoto.itch.io/3d-raycaster) page.
+![demo](./screenshots/demo.gif)
+
+
+
